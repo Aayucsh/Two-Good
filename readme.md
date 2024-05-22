@@ -23,4 +23,4 @@ A responsive clone of the award-winning "Two Good Co." website, recreated using 
 
 <p>Original Website : <a href='https://twogood.com.au/'>Two Good</a></p>
 
-👉 Live Demo: <a href='https://aayushd10.github.io/ShoeDog-Ecommerce/'>Demo</a>
+Live Demo: <a href='https://aayushd10.github.io/Two-Good/'>Demo</a>
